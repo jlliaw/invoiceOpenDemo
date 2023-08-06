@@ -1,5 +1,5 @@
 # 說明
-這個repository主要使用電子發票OpenAPI取得資料儲存至SQL SERVER, 之後使用python及Streamlit套件將API所提供的原始資料進行視覺化。
+### 這個repository主要使用電子發票OpenAPI取得資料儲存至SQL SERVER, 之後使用python及Streamlit套件將API所提供的原始資料進行視覺化。
 1. 開發環境說明:
    * Java : Open JDK 17 or Oracle JDK 17 with Maven Project.
    * python : 3.8.10
