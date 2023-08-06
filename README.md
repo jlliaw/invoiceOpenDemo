@@ -3,3 +3,4 @@
 2. dataAnalysis: python code 自資料庫取得資料, 匯出CSV後進行基礎統計及繪圖，可容易看出特定年度特定獎項落點統計。python 版本使用3.8.10
 
 
+![image info](./image/prizeNmbyYear.png)
