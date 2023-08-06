@@ -10,5 +10,5 @@
 
 3. getOpenData目錄: java code 自電子發票OPEN API取得開獎獎別及區域, 取得的資料寫入MSSQL database。Database的目的table可參考CreateTable_MSSQL.sql。
 4. dataAnalysis目錄: python code 自資料庫取得資料, 匯出CSV後進行基礎統計及繪圖，可容易看出特定年度特定獎項落點統計。python 版本使用3.8.10, 所需件請參考requirements.txt
-5. 完成python環境及requirements.txt套件安裝, 重現步驟3畫面使用以下指令:
+5. 完成python環境及requirements.txt套件安裝, 重現步驟3畫面使用以下指令: \
 ````streamlit run invoiceStreamlit.py````
